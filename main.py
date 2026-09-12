@@ -1,3 +1,5 @@
 print("Lab 1: Version Control")
 print("Author: [Arvin Jay A. Dela Cruz]")
 print("Student ID: TUPM-26-1251")
+print("Class section: TUPM-26-1251")
+print("Login Feature Enabled")
